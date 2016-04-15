@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "sensor_rec")
+set(sensor_rec_MAINTAINER "mike <mike@todo.todo>")
+set(sensor_rec_DEPRECATED "")
+set(sensor_rec_VERSION "0.0.0")
+set(sensor_rec_BUILD_DEPENDS "rospy" "std_msgs")
+set(sensor_rec_RUN_DEPENDS "rospy" "std_msgs")
+set(sensor_rec_BUILDTOOL_DEPENDS "catkin")

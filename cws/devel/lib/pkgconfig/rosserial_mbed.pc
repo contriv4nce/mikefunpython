@@ -1,0 +1,8 @@
+prefix=/home/mike/code/mikefunpython/cws/devel
+
+Name: rosserial_mbed
+Description: Description of rosserial_mbed
+Version: 0.7.1
+Cflags: -I/home/mike/code/mikefunpython/cws/devel/include
+Libs: -L/home/mike/code/mikefunpython/cws/devel/lib 
+Requires: message_runtime

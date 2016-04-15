@@ -1,0 +1,8 @@
+prefix=/home/mike/code/mikefunpython/cws/install
+
+Name: rosserial_tivac
+Description: Description of rosserial_tivac
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/mike/code/mikefunpython/cws/install/lib 
+Requires: 

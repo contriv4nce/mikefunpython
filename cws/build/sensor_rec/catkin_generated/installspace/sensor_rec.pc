@@ -1,0 +1,8 @@
+prefix=/home/mike/code/mikefunpython/cws/install
+
+Name: sensor_rec
+Description: Description of sensor_rec
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mike/code/mikefunpython/cws/install/lib 
+Requires: 

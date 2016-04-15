@@ -1,0 +1,8 @@
+prefix=/home/mike/code/mikefunpython/cws/devel
+
+Name: rosserial_msgs
+Description: Description of rosserial_msgs
+Version: 0.7.1
+Cflags: -I/home/mike/code/mikefunpython/cws/devel/include
+Libs: -L/home/mike/code/mikefunpython/cws/devel/lib 
+Requires: message_runtime
