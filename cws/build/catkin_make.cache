@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/mike/code/mikefunpython/cws/devel -DCMAKE_INSTALL_PREFIX=/home/mike/code/mikefunpython/cws/install -G Unix Makefiles
