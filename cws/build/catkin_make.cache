@@ -1,2 +1,2 @@
-
+rosserial/rosserial:rosserial/rosserial_arduino:rosserial/rosserial_client:rosserial/rosserial_embeddedlinux:rosserial/rosserial_mbed:rosserial/rosserial_msgs:rosserial/rosserial_python:rosserial/rosserial_server:rosserial/rosserial_tivac:rosserial/rosserial_windows:rosserial/rosserial_xbee:sensor_rec
 -DCATKIN_DEVEL_PREFIX=/home/mike/code/mikefunpython/cws/devel -DCMAKE_INSTALL_PREFIX=/home/mike/code/mikefunpython/cws/install -G Unix Makefiles

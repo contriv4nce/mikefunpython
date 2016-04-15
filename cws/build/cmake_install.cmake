@@ -117,6 +117,18 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unsp
 IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   INCLUDE("/home/mike/code/mikefunpython/cws/build/gtest/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_arduino/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_client/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_mbed/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_msgs/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_python/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_tivac/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_xbee/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/sensor_rec/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_server/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_embeddedlinux/cmake_install.cmake")
+  INCLUDE("/home/mike/code/mikefunpython/cws/build/rosserial/rosserial_windows/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

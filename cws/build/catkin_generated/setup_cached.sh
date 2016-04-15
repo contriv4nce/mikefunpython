@@ -10,7 +10,7 @@
 export CMAKE_PREFIX_PATH="/home/mike/code/mikefunpython/cws/devel:$CMAKE_PREFIX_PATH"
 export CPATH="/home/mike/code/mikefunpython/cws/devel/include:$CPATH"
 export LD_LIBRARY_PATH="/home/mike/code/mikefunpython/cws/devel/lib:/home/mike/code/mikefunpython/cws/devel/lib/x86_64-linux-gnu:/opt/ros/indigo/lib/x86_64-linux-gnu:/opt/ros/indigo/lib"
-export PATH="/home/mike/code/mikefunpython/cws/devel/bin:$PATH"
+export PATH="/home/mike/code/mikefunpython/cws/devel/bin:/opt/ros/indigo/bin:.:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
 export PKG_CONFIG_PATH="/home/mike/code/mikefunpython/cws/devel/lib/pkgconfig:/home/mike/code/mikefunpython/cws/devel/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/indigo/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/indigo/lib/pkgconfig"
 export PWD="/home/mike/code/mikefunpython/cws/build"
 export PYTHONPATH="/home/mike/code/mikefunpython/cws/devel/lib/python2.7/dist-packages:$PYTHONPATH"
